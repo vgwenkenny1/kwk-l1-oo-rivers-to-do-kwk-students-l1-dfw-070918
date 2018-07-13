@@ -5,8 +5,7 @@ attr_writer :name, :length, :countries, :discharge
   
 def initialize(name)
   @name = name 
-  @length = length 
-  @countries = countries 
+
 end 
 
 def flood
